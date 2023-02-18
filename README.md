@@ -1,8 +1,9 @@
-<a href="https://www.instagram.com/_ashkan_rastin_" target="_blank" rel="nofollow"><img align="right" alt="Ashkan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a href="https://www.t.me/ashkanrastin" target="_blank" rel="nofollow"><img align="right" alt="Ashkan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
+<a href="https://www.instagram.com/_ashkan_rastin_" target="_blank" rel="nofollow"><img align="right" title="Follow me on Instagram" alt="Ashkan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://www.t.me/ashkanrastin" target="_blank" rel="nofollow"><img align="right" title="Messgae me on Telegram"  alt="Ashkan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
 
-## Hi 👋 I am Ashkan! 
-I am a software enginner. 
+## Hi 👋 I am Ashkan!
+
+I am a software enginner.
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=ashkanrastin&show_icons=true&theme=bear" width = 400>
